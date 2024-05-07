@@ -10,3 +10,10 @@ Currently my focus is automation, including AI.
 
 
 ### AI Test Creation
+
+## Working Experience
+<img src="assets/dci.svg" />
+### Senior Lead Developer Education Technology
+  2022 - present  
+  **DCI - Digital Career Institute GmbH**  
+  Designing and developing software to facilitate learning and automate teaching tasks
