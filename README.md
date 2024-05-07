@@ -12,12 +12,12 @@ Currently my focus is automation, including AI.
 
 ### AI Test Creation
 
-<img align="right" src="assets/projects/codebuddy.png" />
+<img align="right" style="width: 400px" src="assets/projects/codebuddy.png" />
 
 ### CodeBuddy
   Automatic code reviews, grading, feedback, tracking  
   Pitch, Team creation and leadership, Implementation  
-  <img src="assets/tech/Node.js.svg" style="height: 15px" />Jest, GitHub CI, GitHub Workflow, Puppeteer
+  <img src="assets/tech/Node.js.svg" style="height: 15px" />Node.js, <img src="assets/tech/Jest.svg" style="height: 15px" />Jest, GitHub CI, GitHub Workflow, Puppeteer
 
 ## Working Experience
 <img align="right" src="assets/dci.svg#gh-dark-mode-only" /><img align="right" src="assets/dci-light.svg#gh-light-mode-only" />
