@@ -27,7 +27,7 @@ Currently my focus is automation, including AI.
   **MIR MEDIA**  
   Develop high performance Websites and Apps
 
-<img src="assets/freelance.svg#gh-dark-mode-only" style="width: 150px" /><img src="assets/freelance-light.svg#gh-light-mode-only" style="width: 150px" />
+<img src="assets/freelance.svg#gh-dark-mode-only" style="width: 133px" /><img src="assets/freelance-light.svg#gh-light-mode-only" style="width: 133px" />
 
 ### Web Developer
   2000 - 2008  
