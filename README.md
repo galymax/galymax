@@ -25,4 +25,4 @@ Currently my focus is automation, including AI.
 ### Senior Web Developer
   2008 - 2018  
   **MIR MEDIA**  
-  
+  Develop high performance Websites and Apps
