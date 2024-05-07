@@ -20,7 +20,7 @@ Currently my focus is automation, including AI.
   **DCI - Digital Career Institute GmbH**  
   Designing and developing software to facilitate learning and automate teaching tasks
 
-<img src="assets/dci.svg" />
+<img src="assets/mir.svg" />
 
 ### Senior Web Developer
   2008 - 2018  
