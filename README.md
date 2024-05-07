@@ -1,7 +1,7 @@
 <p align="center"><img src="assets/mario-walk.gif" /></p>
 
 <h1 align="center">Maxim Werkhowski</h1>
-Creative problem solver with 25 years of experince in software development and design.  
+Creative problem solver with 24 years of experince in software development and design.  
 
 I'm driven to integrate all capabilities available today into software. My focus is value for the user. I'm able to design and operate applications within a very tight budget.  
   
@@ -26,3 +26,10 @@ Currently my focus is automation, including AI.
   2008 - 2018  
   **MIR MEDIA**  
   Develop high performance Websites and Apps
+
+<img src="assets/freelance.svg#gh-dark-mode-only" style="width: 150px" /><img src="assets/freelance-light.svg#gh-light-mode-only" style="width: 150px" />
+
+### Web Developer
+  2000 - 2008  
+  **Freelance**  
+  Consulting clients and building modern Web Applications
