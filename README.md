@@ -13,21 +13,21 @@ Currently my focus is automation, including AI.
 ### AI Test Creation
 
 ## Working Experience
-<img src="assets/dci.svg#gh-dark-mode-only" /><img src="assets/dci-light.svg#gh-light-mode-only" />
+<img align="right" src="assets/dci.svg#gh-dark-mode-only" /><img align="right" src="assets/dci-light.svg#gh-light-mode-only" />
 
 ### Senior Lead Developer Education Technology
   2022 - present  
   **DCI - Digital Career Institute GmbH**  
   Designing and developing software to facilitate learning and automate teaching tasks
-<br/><br/><br/>
-<img src="assets/mir.svg#gh-dark-mode-only" style="width: 210px" /><img src="assets/mir-light.svg#gh-light-mode-only" style="width: 210px" />
+  
+<img align="right" src="assets/mir.svg#gh-dark-mode-only" style="width: 210px" /><img align="right" src="assets/mir-light.svg#gh-light-mode-only" style="width: 210px" />
 
 ### Senior Web Developer
   2008 - 2018  
   **MIR MEDIA**  
   Develop high performance Websites and Apps
-<br/><br/><br/>
-<img src="assets/freelance.svg#gh-dark-mode-only" style="width: 133px" /><img src="assets/freelance-light.svg#gh-light-mode-only" style="width: 133px" />
+  
+<img align="right" src="assets/freelance.svg#gh-dark-mode-only" style="width: 110px" /><img align="right" src="assets/freelance-light.svg#gh-light-mode-only" style="width: 110px" />
 
 ### Web Developer
   2000 - 2008  
