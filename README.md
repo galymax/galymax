@@ -13,6 +13,7 @@ Currently my focus is automation, including AI.
 
 ## Working Experience
 <img src="assets/dci.svg" />
+
 ### Senior Lead Developer Education Technology
   2022 - present  
   **DCI - Digital Career Institute GmbH**  
