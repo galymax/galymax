@@ -13,13 +13,11 @@ Currently my focus is automation, including AI.
 ### AI Test Creation
 
 ### CodeBuddy
-  Automatic code reviews, grading, feedback, tracking  
-  **Pitch, Team creation and leadership, Implementation**  
-  <img src="assets/tech/Node.js.svg" style="height: 15px" /> `Node.js`,
-  <img src="assets/tech/Jest.svg" style="height: 15px" /> `Jest`,
-  <img src="assets/tech/GitHub.svg" style="height: 15px" /> `GitHub CI`,
-  <img src="assets/tech/GitHub-Actions.svg" style="height: 15px" /> `GitHub Workflow`,
-  <img src="assets/tech/puppeteer.svg" style="height: 15px" /> `Puppeteer`
+|                                                         |                                          |
+|---------------------------------------------------------|------------------------------------------|
+| Automatic code reviews, grading, feedback, tracking     |                                          |
+| **Pitch, Team creation and leadership, Implementation** |                                          | 
+| <img src="assets/tech/Node.js.svg" style="height: 15px" /> `Node.js` <img src="assets/tech/Jest.svg" style="height: 15px" /> `Jest` <img src="assets/tech/GitHub.svg" style="height: 15px" /> `GitHub CI` <img src="assets/tech/GitHub-Actions.svg" style="height: 15px" /> `GitHub Workflow` <img src="assets/tech/puppeteer.svg" style="height: 15px" /> `Puppeteer` |                    |
 
 ## Working Experience
 <img align="right" src="assets/dci.svg#gh-dark-mode-only" /><img align="right" src="assets/dci-light.svg#gh-light-mode-only" />
