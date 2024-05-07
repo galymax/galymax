@@ -19,3 +19,10 @@ Currently my focus is automation, including AI.
   2022 - present  
   **DCI - Digital Career Institute GmbH**  
   Designing and developing software to facilitate learning and automate teaching tasks
+
+<img src="assets/dci.svg" />
+
+### Senior Web Developer
+  2008 - 2018  
+  **MIR MEDIA**  
+  
