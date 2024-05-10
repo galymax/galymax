@@ -10,13 +10,17 @@ Currently my focus is automation, including AI.
 ## Selected Projects
 
 
-### AI Test Creation
+<h3 align="center">AI Test Generator</h3>
+
+|                          <br /><br />                    | <img src="assets/tech/openai.svg" style="height: 15px" /> `OpenAI` <img src="assets/tech/pinecone.svg" style="height: 15px" /> `Pinecone` <img src="assets/tech/Node.js.svg" style="height: 15px" /> `Node.js` <img src="assets/tech/GitHub.svg" style="height: 15px" /> `GitHub API` <img src="assets/tech/GitHub-Actions.svg" style="height: 15px" /> `GitHub App` |
+|:---------------------------------------------------------|:------------------------------------------:|
+| GitHub App that generates automated tests, using the OpenAI API and retrieval from a vector database of existing tests <br /><br /> **Idea, Development, Deployment**  | <img style="width: 40vw" src="assets/projects/test-gen.png" /> |
 
 <h3 align="center">CodeBuddy</h3>
 
 |                          <br /><br />                    | <img src="assets/tech/Node.js.svg" style="height: 15px" /> `Node.js` <img src="assets/tech/Jest.svg" style="height: 15px" /> `Jest` <img src="assets/tech/GitHub.svg" style="height: 15px" /> `GitHub CI` <img src="assets/tech/GitHub-Actions.svg" style="height: 15px" /> `GitHub Workflow` <img src="assets/tech/puppeteer.svg" style="height: 15px" /> `Puppeteer` |
 |:---------------------------------------------------------|:------------------------------------------:|
-| Automatic code reviews, grading, feedback, tracking <br /><br /> **Pitch, Team creation and leadership, Implementation**  | <img src="assets/projects/codebuddy.png" /> |
+| Automatic code reviews, grading, feedback, tracking <br /><br /> **Pitch, Team creation and leadership, Implementation**  | <img style="width: 40vw" src="assets/projects/codebuddy.png" /> |
 
 ## Working Experience
 <img align="right" src="assets/dci.svg#gh-dark-mode-only" /><img align="right" src="assets/dci-light.svg#gh-light-mode-only" />
