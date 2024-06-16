@@ -22,13 +22,13 @@ Currently my focus is automation, including AI.
 
 |                          <br /><br />                    | <img src="assets/tech/openai.svg" style="height: 15px" /> `OpenAI` <img src="assets/tech/Microsoft_Azure.svg" style="height: 15px" /> `Azure` <img src="assets/tech/Python-logo-notext.svg" style="height: 15px" /> `Python` <img src="assets/tech/Amazon_Web_Services_Logo.svg" style="height: 15px" /> `AWS` <img src="assets/tech/thumb_weaviate-logo-light-transparent.avif" style="height: 15px" /> `Weaviate` <img src="assets/tech/moodle_original_logo_icon_146420.svg" style="height: 15px" /> `moodle` |
 |:---------------------------------------------------------|:------------------------------------------:|
-| AI powered conversational interface to student support knowledge base. moodle integration. Real-time synchronization with Confluence. <br /><br /> **UI Design, Architectural Design, Project Lead**  | <img style="width: 1450px" src="assets/projects/student-chat.png" /> |
+| AI powered conversational interface to student support knowledge base. moodle integration. Real-time synchronization with Confluence. <br /><br /> **UI Design, Architectural Design, Project Lead**  | <img style="width: 1500px" src="assets/projects/student-chat.png" /> |
 
 <h3 align="center">RIMOWA Website</h3>
 
 |                          <br /><br />                    |  <img src="assets/tech/CSS3.svg" style="height: 15px" /> `CSS3` <img src="assets/tech/HTML5.svg" style="height: 15px" /> `HTML5` <img src="assets/tech/JavaScript.svg" style="height: 15px" /> `JavaScript` |
 |:---------------------------------------------------------|:------------------------------------------:|
-| Product and Shop UI and Frontend functionality as well as custom dynamic video panorama teaser <br /><br /> **Technical concept, research, development**  | <img style="width: 920px" src="assets/projects/rimowa.jpeg" /> |
+| Product and Shop UI and Frontend functionality as well as custom dynamic video panorama teaser <br /><br /> **Technical concept, research, development**  | <img style="width: 1000px" src="assets/projects/rimowa.jpeg" /> |
 
 <h3 align="center">Curriculum CMS</h3>
 
@@ -40,19 +40,19 @@ Currently my focus is automation, including AI.
 
 |                          <br /><br />                    | <img src="assets/tech/openai.svg" style="height: 15px" /> `OpenAI` <img src="assets/tech/Node.js.svg" style="height: 15px" /> `Node.js` <img src="assets/tech/GitHub.svg" style="height: 15px" /> `GitHub CI` <img src="assets/tech/make.png" style="height: 15px" /> `make` |
 |:---------------------------------------------------------|:------------------------------------------:|
-| AI assisted fully automated student onboarding pipeline <br /><br /> **Idea, Development, Deployment**  | <img style="width: 550px" src="assets/projects/onboarding.png" /> |
+| AI assisted fully automated student onboarding pipeline <br /><br /> **Idea, Development, Deployment**  | <img style="width: 500px" src="assets/projects/onboarding.png" /> |
 
 <h3 align="center">AI translation and review</h3>
 
 |                          <br /><br />                    | <img src="assets/tech/openai.svg" style="height: 15px" /> `OpenAI` <img src="assets/tech/Node.js.svg" style="height: 15px" /> `Node.js` <img src="assets/tech/GitHub.svg" style="height: 15px" /> `GitHub API` <img src="assets/tech/GitHub-Actions.svg" style="height: 15px" /> `GitHub App` |
 |:---------------------------------------------------------|:------------------------------------------:|
-| GitHub app for AI powered fully automated translation and workflow management <br /><br /> **Idea, Development, Deployment**  | <img style="width: 1450px" src="assets/projects/autotranslate.png" /> |
+| GitHub app for AI powered fully automated translation and workflow management <br /><br /> **Idea, Development, Deployment**  | <img style="width: 1050px" src="assets/projects/autotranslate.png" /> |
 
 <h3 align="center">Automated Course Planner</h3>
 
 |                          <br /><br />                    | <img src="assets/tech/CSS3.svg" style="height: 15px" /> `CSS3` <img src="assets/tech/HTML5.svg" style="height: 15px" /> `HTML5` <img src="assets/tech/JavaScript.svg" style="height: 15px" /> `JavaScript` <img src="assets/tech/Nes_controller.svg" style="height: 15px" /> `NES.css` |
 |:---------------------------------------------------------|:------------------------------------------:|
-| Application for automatic full course schedule generation and publishing <br /><br /> **Idea, Development, Deployment**  | <img style="width: 1450px" src="assets/projects/calendar-planner.png" /> |
+| Application for automatic full course schedule generation and publishing <br /><br /> **Idea, Development, Deployment**  | <img style="width: 900px" src="assets/projects/calendar-planner.png" /> |
 
 <h3 align="center">NES-ML Language</h3>
 
@@ -82,7 +82,7 @@ Currently my focus is automation, including AI.
 
 |                          <br /><br />                    | <img src="assets/tech/Node.js.svg" style="height: 15px" /> `Node.js` <img src="assets/tech/Jest.svg" style="height: 15px" /> `Jest` <img src="assets/tech/GitHub.svg" style="height: 15px" /> `GitHub CI` <img src="assets/tech/GitHub-Actions.svg" style="height: 15px" /> `GitHub Workflow` <img src="assets/tech/puppeteer.svg" style="height: 15px" /> `Puppeteer` |
 |:---------------------------------------------------------|:------------------------------------------:|
-| Development of interactive browser based 3D concert hall navigator as UI for ticket booking, including interactive 2D view for mobile devices. Running an interactive 3D model in the browser required a lot of work towards optimization of file formats, textures and algorithms <br /><br /> **Technical concept, 3D file format definition, UI and frontend functionality of 3D viewer, shopping cart and checkout**  <br /><br /> <img src="assets/awards/german-design-award.png" style="height: 50px" />&nbsp;&nbsp;&nbsp;<img src="assets/awards/deutscher-digital-award.png" style="height: 100px" />&nbsp;&nbsp;&nbsp;<img src="assets/awards/reddot.png" style="height: 60px" /> | <img style="width: 1000px" src="assets/projects/lucerne.png" /> |
+| Development of interactive browser based 3D concert hall navigator as UI for ticket booking, including interactive 2D view for mobile devices. Running an interactive 3D model in the browser required a lot of work towards optimization of file formats, textures and algorithms <br /><br /> **Technical concept, 3D file format definition, UI and frontend functionality of 3D viewer, shopping cart and checkout**  <br /><br /> <img src="assets/awards/german-design-award.png" style="height: 50px" />&nbsp;&nbsp;&nbsp;<img src="assets/awards/deutscher-digital-award.png" style="height: 100px" />&nbsp;&nbsp;&nbsp;<img src="assets/awards/reddot.png" style="height: 60px" /> | <img style="width: 2500px" src="assets/projects/lucerne.png" /> |
 
 <h3 align="center">Kölner Philharomie Smart TV App</h3>
 
